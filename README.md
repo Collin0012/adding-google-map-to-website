@@ -1,5 +1,5 @@
 # adding-google-map-to-website
 
-#ui
+#Demo image
 
 ![alt text](https://github.com/Collin0012/adding-google-map-to-website/blob/master/demo.png?raw=true)
